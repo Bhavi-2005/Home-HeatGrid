@@ -1,0 +1,5 @@
+{
+  "name": "Home HeatGrid",
+  "description": "A real-time household waste heat recovery simulation dashboard. Monitor heat sources, energy conversion, battery storage, and device usage.",
+  "requestFramePermissions": []
+}
